@@ -1,7 +1,5 @@
 # Credit Card Fraud Detection
 [Live App](https://credit-card-fraud-detection-mohab.streamlit.app)
-
-![Application Screenshot](card.png)
 A Machine Learning web application that detects fraudulent credit card transactions using a trained classification model.
 The application allows users to upload transaction data and instantly identify suspicious activities.
 ---
